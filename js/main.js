@@ -1,3 +1,12 @@
+/**
+ * Main JavaScript file.
+ * 
+ * @author a00265548.
+ */
+
+/**
+ * Assigns a listener to the 'DOMContentLoaded' event.
+ */
 document.addEventListener('DOMContentLoaded', () => {
     // declare a function to expand an image in the modal view
     const expandImageInModalView = (element) => {
